@@ -1,0 +1,47 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+$display-font-sizes: (
+  1: 5rem,
+  2: 4.5rem,
+  3: 4rem,
+  4: 3.5rem,
+  5: 3rem,
+  6: 2.5rem
+);
+
+$display-font-family: null;
+$display-font-style:  null;
+$display-font-weight: 300;
+$display-line-height: $headings-line-height;
+
+$margin-bottom-sm: 5rem;
+$margin-bottom-lg: 20rem;
+
+$width-60: 60%;
+
+
+//  add colors here [primary,secondary...]
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+$color-grey-light-2: #333;
+
+$color-grey-dark-1: #999;
+$color-grey-dark-2: #777;
+
+$color-white: #fff;
+$color-black: #000;
